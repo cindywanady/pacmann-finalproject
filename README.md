@@ -33,9 +33,7 @@ c. Jika total belanja Andi di atas Rp 500,000 akan mendapatkan diskon 10%
 
 
 
-## Flowchart
-
-![Screen%20Shot%202023-09-10%20at%2017.31.28.jpg](attachment:Screen%20Shot%202023-09-10%20at%2017.31.28.jpg)
+![flowchartcashier.jpg](attachment:flowchartcashier.jpg)
 
 ## Function Explanation
 
