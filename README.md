@@ -33,7 +33,8 @@ c. Jika total belanja Andi di atas Rp 500,000 akan mendapatkan diskon 10%
 
 
 
-![flowchartcashier.jpg](attachment:flowchartcashier.jpg)
+## Flowchart
+https://github.com/cindywanady/pacmann-finalproject/blob/main/flowchartcashier.jpg
 
 ## Function Explanation
 
@@ -208,6 +209,3 @@ trnsct_123.total_price()
     Item yang dibeli adalah: {'Ayam Goreng': [2, 20000], 'Pasta Gigi': [3, 15000], 'Mainan Mobil': [1, 200000], 'Mi Instan': [5, 3000]}
     Total Price: IDR 285,000
 
-# pacmann-finalproject
-# pacmann
-# pacmann
